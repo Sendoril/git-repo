@@ -1,2 +1,2 @@
-print("Hello world")
-Принт 1
+print("Hello world;")
+Принт 1;
